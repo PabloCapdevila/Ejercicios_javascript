@@ -1,0 +1,12 @@
+Visor de prácticas JavaScript
+
+Actualizar el índice después de añadir ejercicios:
+  cd ~/Documentos/Ejercicios_javascript/visor_practicas
+  python3 generar_indice.py
+
+Abrir la web (desde la carpeta principal del proyecto):
+  cd ~/Documentos/Ejercicios_javascript
+  python3 -m http.server 8000
+
+Visita http://localhost:8000/visor_practicas/ . Para detener el servidor, pulsa Ctrl+C.
+La vista previa permite ejecutar JavaScript dentro de un iframe. Los archivos se conservan en sus carpetas originales.

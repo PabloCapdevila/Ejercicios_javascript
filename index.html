@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f6fa"><title>Prácticas JavaScript</title><link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="."><span class="brand-icon">JS</span><span><b>Cuaderno</b><small>Prácticas JavaScript</small></span></a>
+    <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Buscar ejercicio…"></label>
+    <div class="nav-title">BIBLIOTECA <span id="total"></span></div>
+    <nav id="navigation" aria-label="Prácticas y ejercicios"></nav>
+    <footer><span class="status-dot"></span> Biblioteca local</footer>
+  </aside>
+  <main>
+    <header class="topbar"><div><span class="eyebrow">TU ESPACIO DE PRÁCTICA</span><h1>Explora y prueba</h1></div><button id="refreshIndex" class="icon-button" title="Recargar índice" aria-label="Recargar índice">↻</button></header>
+    <section class="workspace">
+      <div class="exercise-heading"><div><div class="crumb" id="crumb">Selecciona un ejercicio</div><h2 id="exerciseTitle">Empieza por una práctica</h2></div><span class="tag" id="typeTag">JavaScript</span></div>
+      <div class="toolbar"><div class="tabs"><button class="tab active" data-view="preview">Vista previa</button><button class="tab" data-view="code">Código</button><button class="tab" data-view="files">Archivos</button></div><div id="previewActions" class="actions"><a id="openNew" class="button subtle" target="_blank" rel="noopener">↗ <span>Abrir aparte</span></a><button id="reload" class="button subtle">↻ <span>Recargar</span></button></div></div>
+      <div id="previewPanel" class="panel preview-panel"><div id="empty" class="empty"><div class="empty-mark">{ }</div><h3>Elige un ejercicio</h3><p>Selecciona una práctica en el menú para ver su funcionamiento y consultar el código.</p></div><iframe id="preview" title="Vista previa del ejercicio" sandbox="allow-scripts allow-forms allow-modals" hidden></iframe></div>
+      <div id="codePanel" class="panel code-panel" hidden><div class="code-head"><div class="file-tabs"><button class="file-tab active" data-code="html">HTML</button><button class="file-tab" data-code="js">JavaScript</button></div><button id="copy" class="button subtle">▢ <span>Copiar código</span></button></div><pre><code id="codeText">Selecciona un ejercicio para cargar su código.</code></pre></div>
+      <div id="filesPanel" class="panel files-panel" hidden><div class="file-list" id="fileList"></div></div>
+      <div class="hint"><span>✦</span> Los cambios en los ejercicios originales se reflejan al recargar el índice.</div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body></html>
