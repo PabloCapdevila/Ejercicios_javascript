@@ -5,56 +5,56 @@
     "exercises": [
       {
         "name": "Ejercicio 1",
-        "html": "../Practica_1/Ejercicio 1/Ejercicio_1.html",
-        "js": "../Practica_1/Ejercicio 1/Ejercicio_1.js",
+        "html": "Practica_1/Ejercicio 1/Ejercicio_1.html",
+        "js": "Practica_1/Ejercicio 1/Ejercicio_1.js",
         "files": [
-          "../Practica_1/Ejercicio 1/Ejercicio_1.html",
-          "../Practica_1/Ejercicio 1/Ejercicio_1.js"
+          "Practica_1/Ejercicio 1/Ejercicio_1.html",
+          "Practica_1/Ejercicio 1/Ejercicio_1.js"
         ]
       },
       {
         "name": "Ejercicio 2",
-        "html": "../Practica_1/Ejercicio 2/Ejercicio_2.html",
-        "js": "../Practica_1/Ejercicio 2/Ejercicio_2.js",
+        "html": "Practica_1/Ejercicio 2/Ejercicio_2.html",
+        "js": "Practica_1/Ejercicio 2/Ejercicio_2.js",
         "files": [
-          "../Practica_1/Ejercicio 2/Ejercicio_2.html",
-          "../Practica_1/Ejercicio 2/Ejercicio_2.js"
+          "Practica_1/Ejercicio 2/Ejercicio_2.html",
+          "Practica_1/Ejercicio 2/Ejercicio_2.js"
         ]
       },
       {
         "name": "Ejercicio 3",
-        "html": "../Practica_1/Ejercicio 3/Ejercicio_3.html",
-        "js": "../Practica_1/Ejercicio 3/Ejercicio_3.js",
+        "html": "Practica_1/Ejercicio 3/Ejercicio_3.html",
+        "js": "Practica_1/Ejercicio 3/Ejercicio_3.js",
         "files": [
-          "../Practica_1/Ejercicio 3/Ejercicio_3.html",
-          "../Practica_1/Ejercicio 3/Ejercicio_3.js"
+          "Practica_1/Ejercicio 3/Ejercicio_3.html",
+          "Practica_1/Ejercicio 3/Ejercicio_3.js"
         ]
       },
       {
         "name": "Ejercicio 4",
-        "html": "../Practica_1/Ejercicio 4/Ejercicio_4.html",
-        "js": "../Practica_1/Ejercicio 4/Ejercicio_4.js",
+        "html": "Practica_1/Ejercicio 4/Ejercicio_4.html",
+        "js": "Practica_1/Ejercicio 4/Ejercicio_4.js",
         "files": [
-          "../Practica_1/Ejercicio 4/Ejercicio_4.html",
-          "../Practica_1/Ejercicio 4/Ejercicio_4.js"
+          "Practica_1/Ejercicio 4/Ejercicio_4.html",
+          "Practica_1/Ejercicio 4/Ejercicio_4.js"
         ]
       },
       {
         "name": "Ejercicio 5",
-        "html": "../Practica_1/Ejercicio 5/Ejercicio_5.html",
-        "js": "../Practica_1/Ejercicio 5/Ejercicio_5.js",
+        "html": "Practica_1/Ejercicio 5/Ejercicio_5.html",
+        "js": "Practica_1/Ejercicio 5/Ejercicio_5.js",
         "files": [
-          "../Practica_1/Ejercicio 5/Ejercicio_5.html",
-          "../Practica_1/Ejercicio 5/Ejercicio_5.js"
+          "Practica_1/Ejercicio 5/Ejercicio_5.html",
+          "Practica_1/Ejercicio 5/Ejercicio_5.js"
         ]
       },
       {
         "name": "Ejercicio 6",
-        "html": "../Practica_1/Ejercicio 6/Ejercicio_6.html",
-        "js": "../Practica_1/Ejercicio 6/Ejercicio_6.js",
+        "html": "Practica_1/Ejercicio 6/Ejercicio_6.html",
+        "js": "Practica_1/Ejercicio 6/Ejercicio_6.js",
         "files": [
-          "../Practica_1/Ejercicio 6/Ejercicio_6.html",
-          "../Practica_1/Ejercicio 6/Ejercicio_6.js"
+          "Practica_1/Ejercicio 6/Ejercicio_6.html",
+          "Practica_1/Ejercicio 6/Ejercicio_6.js"
         ]
       }
     ]
@@ -65,83 +65,83 @@
     "exercises": [
       {
         "name": "Ejercicio_1",
-        "html": "../Practica_2/Ejercicio_1/Ejercicio_1.html",
-        "js": "../Practica_2/Ejercicio_1/Ejercicio_1.js",
+        "html": "Practica_2/Ejercicio_1/Ejercicio_1.html",
+        "js": "Practica_2/Ejercicio_1/Ejercicio_1.js",
         "files": [
-          "../Practica_2/Ejercicio_1/Ejercicio_1.html",
-          "../Practica_2/Ejercicio_1/Ejercicio_1.js"
+          "Practica_2/Ejercicio_1/Ejercicio_1.html",
+          "Practica_2/Ejercicio_1/Ejercicio_1.js"
         ]
       },
       {
         "name": "Ejercicio_2",
-        "html": "../Practica_2/Ejercicio_2/Ejercicio_2.html",
-        "js": "../Practica_2/Ejercicio_2/Ejercicio_2.js",
+        "html": "Practica_2/Ejercicio_2/Ejercicio_2.html",
+        "js": "Practica_2/Ejercicio_2/Ejercicio_2.js",
         "files": [
-          "../Practica_2/Ejercicio_2/Ejercicio_2.html",
-          "../Practica_2/Ejercicio_2/Ejercicio_2.js"
+          "Practica_2/Ejercicio_2/Ejercicio_2.html",
+          "Practica_2/Ejercicio_2/Ejercicio_2.js"
         ]
       },
       {
         "name": "Ejercicio_3",
-        "html": "../Practica_2/Ejercicio_3/Ejercicio_3.html",
-        "js": "../Practica_2/Ejercicio_3/Ejercicio_3.js",
+        "html": "Practica_2/Ejercicio_3/Ejercicio_3.html",
+        "js": "Practica_2/Ejercicio_3/Ejercicio_3.js",
         "files": [
-          "../Practica_2/Ejercicio_3/Ejercicio_3.html",
-          "../Practica_2/Ejercicio_3/Ejercicio_3.js"
+          "Practica_2/Ejercicio_3/Ejercicio_3.html",
+          "Practica_2/Ejercicio_3/Ejercicio_3.js"
         ]
       },
       {
         "name": "Ejercicio_4",
-        "html": "../Practica_2/Ejercicio_4/Ejercicio_4.html",
-        "js": "../Practica_2/Ejercicio_4/Ejercicio_4.js",
+        "html": "Practica_2/Ejercicio_4/Ejercicio_4.html",
+        "js": "Practica_2/Ejercicio_4/Ejercicio_4.js",
         "files": [
-          "../Practica_2/Ejercicio_4/Ejercicio_4.html",
-          "../Practica_2/Ejercicio_4/Ejercicio_4.js"
+          "Practica_2/Ejercicio_4/Ejercicio_4.html",
+          "Practica_2/Ejercicio_4/Ejercicio_4.js"
         ]
       },
       {
         "name": "Ejercicio_5",
-        "html": "../Practica_2/Ejercicio_5/Ejercicio_5.html",
-        "js": "../Practica_2/Ejercicio_5/Ejercicio_5.js",
+        "html": "Practica_2/Ejercicio_5/Ejercicio_5.html",
+        "js": "Practica_2/Ejercicio_5/Ejercicio_5.js",
         "files": [
-          "../Practica_2/Ejercicio_5/Ejercicio_5.html",
-          "../Practica_2/Ejercicio_5/Ejercicio_5.js"
+          "Practica_2/Ejercicio_5/Ejercicio_5.html",
+          "Practica_2/Ejercicio_5/Ejercicio_5.js"
         ]
       },
       {
         "name": "Ejercicio_6",
-        "html": "../Practica_2/Ejercicio_6/Ejercicio_6.html",
-        "js": "../Practica_2/Ejercicio_6/Ejercicio_6.js",
+        "html": "Practica_2/Ejercicio_6/Ejercicio_6.html",
+        "js": "Practica_2/Ejercicio_6/Ejercicio_6.js",
         "files": [
-          "../Practica_2/Ejercicio_6/Ejercicio_6.html",
-          "../Practica_2/Ejercicio_6/Ejercicio_6.js"
+          "Practica_2/Ejercicio_6/Ejercicio_6.html",
+          "Practica_2/Ejercicio_6/Ejercicio_6.js"
         ]
       },
       {
         "name": "Ejercicio_7",
-        "html": "../Practica_2/Ejercicio_7/Ejercicio_7.html",
-        "js": "../Practica_2/Ejercicio_7/Ejercicio_7.js",
+        "html": "Practica_2/Ejercicio_7/Ejercicio_7.html",
+        "js": "Practica_2/Ejercicio_7/Ejercicio_7.js",
         "files": [
-          "../Practica_2/Ejercicio_7/Ejercicio_7.html",
-          "../Practica_2/Ejercicio_7/Ejercicio_7.js"
+          "Practica_2/Ejercicio_7/Ejercicio_7.html",
+          "Practica_2/Ejercicio_7/Ejercicio_7.js"
         ]
       },
       {
         "name": "Ejercicio_8",
-        "html": "../Practica_2/Ejercicio_8/Ejercicio_8.html",
-        "js": "../Practica_2/Ejercicio_8/Ejercicio_8.js",
+        "html": "Practica_2/Ejercicio_8/Ejercicio_8.html",
+        "js": "Practica_2/Ejercicio_8/Ejercicio_8.js",
         "files": [
-          "../Practica_2/Ejercicio_8/Ejercicio_8.html",
-          "../Practica_2/Ejercicio_8/Ejercicio_8.js"
+          "Practica_2/Ejercicio_8/Ejercicio_8.html",
+          "Practica_2/Ejercicio_8/Ejercicio_8.js"
         ]
       },
       {
         "name": "Ejercicio_9",
-        "html": "../Practica_2/Ejercicio_9/Ejercicio_9.html",
-        "js": "../Practica_2/Ejercicio_9/Ejercicio_9.js",
+        "html": "Practica_2/Ejercicio_9/Ejercicio_9.html",
+        "js": "Practica_2/Ejercicio_9/Ejercicio_9.js",
         "files": [
-          "../Practica_2/Ejercicio_9/Ejercicio_9.html",
-          "../Practica_2/Ejercicio_9/Ejercicio_9.js"
+          "Practica_2/Ejercicio_9/Ejercicio_9.html",
+          "Practica_2/Ejercicio_9/Ejercicio_9.js"
         ]
       }
     ]
@@ -152,56 +152,56 @@
     "exercises": [
       {
         "name": "Ejercicio_1",
-        "html": "../Practica_2_Anexos/Ejercicio_1/Ejercicio_1.html",
-        "js": "../Practica_2_Anexos/Ejercicio_1/Ejercicio_1.js",
+        "html": "Practica_2_Anexos/Ejercicio_1/Ejercicio_1.html",
+        "js": "Practica_2_Anexos/Ejercicio_1/Ejercicio_1.js",
         "files": [
-          "../Practica_2_Anexos/Ejercicio_1/Ejercicio_1.html",
-          "../Practica_2_Anexos/Ejercicio_1/Ejercicio_1.js"
+          "Practica_2_Anexos/Ejercicio_1/Ejercicio_1.html",
+          "Practica_2_Anexos/Ejercicio_1/Ejercicio_1.js"
         ]
       },
       {
         "name": "Ejercicio_2",
-        "html": "../Practica_2_Anexos/Ejercicio_2/Ejercicio_2.html",
-        "js": "../Practica_2_Anexos/Ejercicio_2/Ejercicio_2.js",
+        "html": "Practica_2_Anexos/Ejercicio_2/Ejercicio_2.html",
+        "js": "Practica_2_Anexos/Ejercicio_2/Ejercicio_2.js",
         "files": [
-          "../Practica_2_Anexos/Ejercicio_2/Ejercicio_2.html",
-          "../Practica_2_Anexos/Ejercicio_2/Ejercicio_2.js"
+          "Practica_2_Anexos/Ejercicio_2/Ejercicio_2.html",
+          "Practica_2_Anexos/Ejercicio_2/Ejercicio_2.js"
         ]
       },
       {
         "name": "Ejercicio_3",
-        "html": "../Practica_2_Anexos/Ejercicio_3/Ejercicio_3.html",
-        "js": "../Practica_2_Anexos/Ejercicio_3/Ejercicio_3.js",
+        "html": "Practica_2_Anexos/Ejercicio_3/Ejercicio_3.html",
+        "js": "Practica_2_Anexos/Ejercicio_3/Ejercicio_3.js",
         "files": [
-          "../Practica_2_Anexos/Ejercicio_3/Ejercicio_3.html",
-          "../Practica_2_Anexos/Ejercicio_3/Ejercicio_3.js"
+          "Practica_2_Anexos/Ejercicio_3/Ejercicio_3.html",
+          "Practica_2_Anexos/Ejercicio_3/Ejercicio_3.js"
         ]
       },
       {
         "name": "Ejercicio_4",
-        "html": "../Practica_2_Anexos/Ejercicio_4/Ejercicio_4.html",
-        "js": "../Practica_2_Anexos/Ejercicio_4/Ejercicio_4.js",
+        "html": "Practica_2_Anexos/Ejercicio_4/Ejercicio_4.html",
+        "js": "Practica_2_Anexos/Ejercicio_4/Ejercicio_4.js",
         "files": [
-          "../Practica_2_Anexos/Ejercicio_4/Ejercicio_4.html",
-          "../Practica_2_Anexos/Ejercicio_4/Ejercicio_4.js"
+          "Practica_2_Anexos/Ejercicio_4/Ejercicio_4.html",
+          "Practica_2_Anexos/Ejercicio_4/Ejercicio_4.js"
         ]
       },
       {
         "name": "Ejercicio_5",
-        "html": "../Practica_2_Anexos/Ejercicio_5/Ejercicio_5.html",
-        "js": "../Practica_2_Anexos/Ejercicio_5/Ejercicio_5.js",
+        "html": "Practica_2_Anexos/Ejercicio_5/Ejercicio_5.html",
+        "js": "Practica_2_Anexos/Ejercicio_5/Ejercicio_5.js",
         "files": [
-          "../Practica_2_Anexos/Ejercicio_5/Ejercicio_5.html",
-          "../Practica_2_Anexos/Ejercicio_5/Ejercicio_5.js"
+          "Practica_2_Anexos/Ejercicio_5/Ejercicio_5.html",
+          "Practica_2_Anexos/Ejercicio_5/Ejercicio_5.js"
         ]
       },
       {
         "name": "Ejercicio_6",
-        "html": "../Practica_2_Anexos/Ejercicio_6/Ejercicio_6.html",
-        "js": "../Practica_2_Anexos/Ejercicio_6/Ejercicio_6.js",
+        "html": "Practica_2_Anexos/Ejercicio_6/Ejercicio_6.html",
+        "js": "Practica_2_Anexos/Ejercicio_6/Ejercicio_6.js",
         "files": [
-          "../Practica_2_Anexos/Ejercicio_6/Ejercicio_6.html",
-          "../Practica_2_Anexos/Ejercicio_6/Ejercicio_6.js"
+          "Practica_2_Anexos/Ejercicio_6/Ejercicio_6.html",
+          "Practica_2_Anexos/Ejercicio_6/Ejercicio_6.js"
         ]
       }
     ]
@@ -212,50 +212,50 @@
     "exercises": [
       {
         "name": "Ejercicio_1",
-        "html": "../Practica_3/Ejercicio_1/Ejercicio_1.html",
-        "js": "../Practica_3/Ejercicio_1/Ejercicio_1.js",
+        "html": "Practica_3/Ejercicio_1/Ejercicio_1.html",
+        "js": "Practica_3/Ejercicio_1/Ejercicio_1.js",
         "files": [
-          "../Practica_3/Ejercicio_1/Ejercicio_1.html",
-          "../Practica_3/Ejercicio_1/Ejercicio_1.js"
+          "Practica_3/Ejercicio_1/Ejercicio_1.html",
+          "Practica_3/Ejercicio_1/Ejercicio_1.js"
         ]
       },
       {
         "name": "Ejercicio_2",
-        "html": "../Practica_3/Ejercicio_2/Ejercicio_2.html",
-        "js": "../Practica_3/Ejercicio_2/Ejercicio_2.js",
+        "html": "Practica_3/Ejercicio_2/Ejercicio_2.html",
+        "js": "Practica_3/Ejercicio_2/Ejercicio_2.js",
         "files": [
-          "../Practica_3/Ejercicio_2/Ejercicio_2.html",
-          "../Practica_3/Ejercicio_2/Ejercicio_2.js"
+          "Practica_3/Ejercicio_2/Ejercicio_2.html",
+          "Practica_3/Ejercicio_2/Ejercicio_2.js"
         ]
       },
       {
         "name": "Ejercicio_3",
-        "html": "../Practica_3/Ejercicio_3/Ejercicio_3.html",
-        "js": "../Practica_3/Ejercicio_3/Ejercicio_3.js",
+        "html": "Practica_3/Ejercicio_3/Ejercicio_3.html",
+        "js": "Practica_3/Ejercicio_3/Ejercicio_3.js",
         "files": [
-          "../Practica_3/Ejercicio_3/Ejercicio_3.html",
-          "../Practica_3/Ejercicio_3/Ejercicio_3.js"
+          "Practica_3/Ejercicio_3/Ejercicio_3.html",
+          "Practica_3/Ejercicio_3/Ejercicio_3.js"
         ]
       },
       {
         "name": "Ejercicio_4",
-        "html": "../Practica_3/Ejercicio_4/Ejercicio_4.html",
-        "js": "../Practica_3/Ejercicio_4/Ejercicio_4.js",
+        "html": "Practica_3/Ejercicio_4/Ejercicio_4.html",
+        "js": "Practica_3/Ejercicio_4/Ejercicio_4.js",
         "files": [
-          "../Practica_3/Ejercicio_4/Ejercicio_4.html",
-          "../Practica_3/Ejercicio_4/Ejercicio_4.js",
-          "../Practica_3/Ejercicio_4/Instagram_logo.png",
-          "../Practica_3/Ejercicio_4/Spotify_logo.png",
-          "../Practica_3/Ejercicio_4/Youtube_logo.png"
+          "Practica_3/Ejercicio_4/Ejercicio_4.html",
+          "Practica_3/Ejercicio_4/Ejercicio_4.js",
+          "Practica_3/Ejercicio_4/Instagram_logo.png",
+          "Practica_3/Ejercicio_4/Spotify_logo.png",
+          "Practica_3/Ejercicio_4/Youtube_logo.png"
         ]
       },
       {
         "name": "Ejercicio_5",
-        "html": "../Practica_3/Ejercicio_5/Ejercicio_5.html",
-        "js": "../Practica_3/Ejercicio_5/Ejercicio_5.js",
+        "html": "Practica_3/Ejercicio_5/Ejercicio_5.html",
+        "js": "Practica_3/Ejercicio_5/Ejercicio_5.js",
         "files": [
-          "../Practica_3/Ejercicio_5/Ejercicio_5.html",
-          "../Practica_3/Ejercicio_5/Ejercicio_5.js"
+          "Practica_3/Ejercicio_5/Ejercicio_5.html",
+          "Practica_3/Ejercicio_5/Ejercicio_5.js"
         ]
       }
     ]
@@ -266,38 +266,38 @@
     "exercises": [
       {
         "name": "Ejercicio_1",
-        "html": "../Practica_3_Anexos/Ejercicio_1/Ejercicio_1.html",
-        "js": "../Practica_3_Anexos/Ejercicio_1/Ejercicio_1.js",
+        "html": "Practica_3_Anexos/Ejercicio_1/Ejercicio_1.html",
+        "js": "Practica_3_Anexos/Ejercicio_1/Ejercicio_1.js",
         "files": [
-          "../Practica_3_Anexos/Ejercicio_1/Ejercicio_1.html",
-          "../Practica_3_Anexos/Ejercicio_1/Ejercicio_1.js"
+          "Practica_3_Anexos/Ejercicio_1/Ejercicio_1.html",
+          "Practica_3_Anexos/Ejercicio_1/Ejercicio_1.js"
         ]
       },
       {
         "name": "Ejercicio_2",
-        "html": "../Practica_3_Anexos/Ejercicio_2/Ejercicio_2.html",
-        "js": "../Practica_3_Anexos/Ejercicio_2/Ejercicio_2.js",
+        "html": "Practica_3_Anexos/Ejercicio_2/Ejercicio_2.html",
+        "js": "Practica_3_Anexos/Ejercicio_2/Ejercicio_2.js",
         "files": [
-          "../Practica_3_Anexos/Ejercicio_2/Ejercicio_2.html",
-          "../Practica_3_Anexos/Ejercicio_2/Ejercicio_2.js"
+          "Practica_3_Anexos/Ejercicio_2/Ejercicio_2.html",
+          "Practica_3_Anexos/Ejercicio_2/Ejercicio_2.js"
         ]
       },
       {
         "name": "Ejercicio_3",
-        "html": "../Practica_3_Anexos/Ejercicio_3/Ejercicio_3.html",
-        "js": "../Practica_3_Anexos/Ejercicio_3/Ejercicio_3.js",
+        "html": "Practica_3_Anexos/Ejercicio_3/Ejercicio_3.html",
+        "js": "Practica_3_Anexos/Ejercicio_3/Ejercicio_3.js",
         "files": [
-          "../Practica_3_Anexos/Ejercicio_3/Ejercicio_3.html",
-          "../Practica_3_Anexos/Ejercicio_3/Ejercicio_3.js"
+          "Practica_3_Anexos/Ejercicio_3/Ejercicio_3.html",
+          "Practica_3_Anexos/Ejercicio_3/Ejercicio_3.js"
         ]
       },
       {
         "name": "Ejercicio_4",
-        "html": "../Practica_3_Anexos/Ejercicio_4/Ejercicio_4.html",
-        "js": "../Practica_3_Anexos/Ejercicio_4/Ejercicio_4.js",
+        "html": "Practica_3_Anexos/Ejercicio_4/Ejercicio_4.html",
+        "js": "Practica_3_Anexos/Ejercicio_4/Ejercicio_4.js",
         "files": [
-          "../Practica_3_Anexos/Ejercicio_4/Ejercicio_4.html",
-          "../Practica_3_Anexos/Ejercicio_4/Ejercicio_4.js"
+          "Practica_3_Anexos/Ejercicio_4/Ejercicio_4.html",
+          "Practica_3_Anexos/Ejercicio_4/Ejercicio_4.js"
         ]
       }
     ]
@@ -308,65 +308,65 @@
     "exercises": [
       {
         "name": "Ejercicio_1",
-        "html": "../Practica_4/Ejercicio_1/Ejercicio_1.html",
-        "js": "../Practica_4/Ejercicio_1/Ejercicio_1.js",
+        "html": "Practica_4/Ejercicio_1/Ejercicio_1.html",
+        "js": "Practica_4/Ejercicio_1/Ejercicio_1.js",
         "files": [
-          "../Practica_4/Ejercicio_1/Ejercicio_1.html",
-          "../Practica_4/Ejercicio_1/Ejercicio_1.js"
+          "Practica_4/Ejercicio_1/Ejercicio_1.html",
+          "Practica_4/Ejercicio_1/Ejercicio_1.js"
         ]
       },
       {
         "name": "Ejercicio_2",
-        "html": "../Practica_4/Ejercicio_2/Ejercicio_2.html",
-        "js": "../Practica_4/Ejercicio_2/Ejercicio_2.js",
+        "html": "Practica_4/Ejercicio_2/Ejercicio_2.html",
+        "js": "Practica_4/Ejercicio_2/Ejercicio_2.js",
         "files": [
-          "../Practica_4/Ejercicio_2/Ejercicio_2.html",
-          "../Practica_4/Ejercicio_2/Ejercicio_2.js"
+          "Practica_4/Ejercicio_2/Ejercicio_2.html",
+          "Practica_4/Ejercicio_2/Ejercicio_2.js"
         ]
       },
       {
         "name": "Ejercicio_3",
-        "html": "../Practica_4/Ejercicio_3/Ejercicio_3.html",
-        "js": "../Practica_4/Ejercicio_3/Ejercicio_3.js",
+        "html": "Practica_4/Ejercicio_3/Ejercicio_3.html",
+        "js": "Practica_4/Ejercicio_3/Ejercicio_3.js",
         "files": [
-          "../Practica_4/Ejercicio_3/Ejercicio_3.html",
-          "../Practica_4/Ejercicio_3/Ejercicio_3.js"
+          "Practica_4/Ejercicio_3/Ejercicio_3.html",
+          "Practica_4/Ejercicio_3/Ejercicio_3.js"
         ]
       },
       {
         "name": "Ejercicio_4",
-        "html": "../Practica_4/Ejercicio_4/Ejercicio_4.html",
-        "js": "../Practica_4/Ejercicio_4/Ejercicio_4.js",
+        "html": "Practica_4/Ejercicio_4/Ejercicio_4.html",
+        "js": "Practica_4/Ejercicio_4/Ejercicio_4.js",
         "files": [
-          "../Practica_4/Ejercicio_4/Ejercicio_4.html",
-          "../Practica_4/Ejercicio_4/Ejercicio_4.js"
+          "Practica_4/Ejercicio_4/Ejercicio_4.html",
+          "Practica_4/Ejercicio_4/Ejercicio_4.js"
         ]
       },
       {
         "name": "Ejercicio_5",
-        "html": "../Practica_4/Ejercicio_5/Ejercicio_5.html",
-        "js": "../Practica_4/Ejercicio_5/Ejercicio_5.js",
+        "html": "Practica_4/Ejercicio_5/Ejercicio_5.html",
+        "js": "Practica_4/Ejercicio_5/Ejercicio_5.js",
         "files": [
-          "../Practica_4/Ejercicio_5/Ejercicio_5.html",
-          "../Practica_4/Ejercicio_5/Ejercicio_5.js"
+          "Practica_4/Ejercicio_5/Ejercicio_5.html",
+          "Practica_4/Ejercicio_5/Ejercicio_5.js"
         ]
       },
       {
         "name": "Ejercicio_6",
-        "html": "../Practica_4/Ejercicio_6/Ejercicio_6.html",
-        "js": "../Practica_4/Ejercicio_6/Ejercicio_6.js",
+        "html": "Practica_4/Ejercicio_6/Ejercicio_6.html",
+        "js": "Practica_4/Ejercicio_6/Ejercicio_6.js",
         "files": [
-          "../Practica_4/Ejercicio_6/Ejercicio_6.html",
-          "../Practica_4/Ejercicio_6/Ejercicio_6.js"
+          "Practica_4/Ejercicio_6/Ejercicio_6.html",
+          "Practica_4/Ejercicio_6/Ejercicio_6.js"
         ]
       },
       {
         "name": "Ejercicio_7",
-        "html": "../Practica_4/Ejercicio_7/Ejercicio_7.html",
-        "js": "../Practica_4/Ejercicio_7/Ejercicio_7.js",
+        "html": "Practica_4/Ejercicio_7/Ejercicio_7.html",
+        "js": "Practica_4/Ejercicio_7/Ejercicio_7.js",
         "files": [
-          "../Practica_4/Ejercicio_7/Ejercicio_7.html",
-          "../Practica_4/Ejercicio_7/Ejercicio_7.js"
+          "Practica_4/Ejercicio_7/Ejercicio_7.html",
+          "Practica_4/Ejercicio_7/Ejercicio_7.js"
         ]
       }
     ]
@@ -377,29 +377,29 @@
     "exercises": [
       {
         "name": "Ejercicio_1",
-        "html": "../Practica_4_Anexos/Ejercicio_1/Ejercicio_1.html",
-        "js": "../Practica_4_Anexos/Ejercicio_1/Ejercicio_1.js",
+        "html": "Practica_4_Anexos/Ejercicio_1/Ejercicio_1.html",
+        "js": "Practica_4_Anexos/Ejercicio_1/Ejercicio_1.js",
         "files": [
-          "../Practica_4_Anexos/Ejercicio_1/Ejercicio_1.html",
-          "../Practica_4_Anexos/Ejercicio_1/Ejercicio_1.js"
+          "Practica_4_Anexos/Ejercicio_1/Ejercicio_1.html",
+          "Practica_4_Anexos/Ejercicio_1/Ejercicio_1.js"
         ]
       },
       {
         "name": "Ejercicio_2",
-        "html": "../Practica_4_Anexos/Ejercicio_2/Ejercicio_2.html",
-        "js": "../Practica_4_Anexos/Ejercicio_2/Ejercicio_2.js",
+        "html": "Practica_4_Anexos/Ejercicio_2/Ejercicio_2.html",
+        "js": "Practica_4_Anexos/Ejercicio_2/Ejercicio_2.js",
         "files": [
-          "../Practica_4_Anexos/Ejercicio_2/Ejercicio_2.html",
-          "../Practica_4_Anexos/Ejercicio_2/Ejercicio_2.js"
+          "Practica_4_Anexos/Ejercicio_2/Ejercicio_2.html",
+          "Practica_4_Anexos/Ejercicio_2/Ejercicio_2.js"
         ]
       },
       {
         "name": "Ejercicio_3",
-        "html": "../Practica_4_Anexos/Ejercicio_3/Ejercicio_3.html",
-        "js": "../Practica_4_Anexos/Ejercicio_3/Ejercicio_3.js",
+        "html": "Practica_4_Anexos/Ejercicio_3/Ejercicio_3.html",
+        "js": "Practica_4_Anexos/Ejercicio_3/Ejercicio_3.js",
         "files": [
-          "../Practica_4_Anexos/Ejercicio_3/Ejercicio_3.html",
-          "../Practica_4_Anexos/Ejercicio_3/Ejercicio_3.js"
+          "Practica_4_Anexos/Ejercicio_3/Ejercicio_3.html",
+          "Practica_4_Anexos/Ejercicio_3/Ejercicio_3.js"
         ]
       }
     ]
@@ -410,38 +410,38 @@
     "exercises": [
       {
         "name": "Ejercicio_1",
-        "html": "../Practica_5/Ejercicio_1/Ejercicio_1.html",
-        "js": "../Practica_5/Ejercicio_1/Ejercicio_1.js",
+        "html": "Practica_5/Ejercicio_1/Ejercicio_1.html",
+        "js": "Practica_5/Ejercicio_1/Ejercicio_1.js",
         "files": [
-          "../Practica_5/Ejercicio_1/Ejercicio_1.html",
-          "../Practica_5/Ejercicio_1/Ejercicio_1.js"
+          "Practica_5/Ejercicio_1/Ejercicio_1.html",
+          "Practica_5/Ejercicio_1/Ejercicio_1.js"
         ]
       },
       {
         "name": "Ejercicio_2",
-        "html": "../Practica_5/Ejercicio_2/Ejercicio_2.html",
-        "js": "../Practica_5/Ejercicio_2/Ejercicio_2.js",
+        "html": "Practica_5/Ejercicio_2/Ejercicio_2.html",
+        "js": "Practica_5/Ejercicio_2/Ejercicio_2.js",
         "files": [
-          "../Practica_5/Ejercicio_2/Ejercicio_2.html",
-          "../Practica_5/Ejercicio_2/Ejercicio_2.js"
+          "Practica_5/Ejercicio_2/Ejercicio_2.html",
+          "Practica_5/Ejercicio_2/Ejercicio_2.js"
         ]
       },
       {
         "name": "Ejercicio_3",
-        "html": "../Practica_5/Ejercicio_3/Ejercicio_3.html",
-        "js": "../Practica_5/Ejercicio_3/Ejercicio_3.js",
+        "html": "Practica_5/Ejercicio_3/Ejercicio_3.html",
+        "js": "Practica_5/Ejercicio_3/Ejercicio_3.js",
         "files": [
-          "../Practica_5/Ejercicio_3/Ejercicio_3.html",
-          "../Practica_5/Ejercicio_3/Ejercicio_3.js"
+          "Practica_5/Ejercicio_3/Ejercicio_3.html",
+          "Practica_5/Ejercicio_3/Ejercicio_3.js"
         ]
       },
       {
         "name": "Ejercicio_4",
-        "html": "../Practica_5/Ejercicio_4/Ejercicio_4.html",
-        "js": "../Practica_5/Ejercicio_4/Ejercicio_4.js",
+        "html": "Practica_5/Ejercicio_4/Ejercicio_4.html",
+        "js": "Practica_5/Ejercicio_4/Ejercicio_4.js",
         "files": [
-          "../Practica_5/Ejercicio_4/Ejercicio_4.html",
-          "../Practica_5/Ejercicio_4/Ejercicio_4.js"
+          "Practica_5/Ejercicio_4/Ejercicio_4.html",
+          "Practica_5/Ejercicio_4/Ejercicio_4.js"
         ]
       }
     ]

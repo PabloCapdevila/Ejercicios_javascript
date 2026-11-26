@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 
 app = Path(__file__).resolve().parent
-root = app.parent
+root = app
 groups = []
 for folder in sorted(root.glob("Practica_*")):
     if not folder.is_dir():
@@ -14,7 +14,8 @@ for folder in sorted(root.glob("Practica_*")):
         files = sorted(p for p in sub.rglob("*") if p.is_file())
         html = next((p for p in files if p.suffix.lower() == ".html"), None)
         js = next((p for p in files if p.suffix.lower() == ".js"), None)
-        rel = lambda p: "../" + p.relative_to(root).as_posix()
+        # Keep paths relative to the GitHub Pages project root.
+        rel = lambda p: p.relative_to(root).as_posix()
         exercises.append({
             "name": sub.name,
             "html": rel(html) if html else None,
